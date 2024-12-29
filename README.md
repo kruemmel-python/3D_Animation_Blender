@@ -136,7 +136,6 @@ Das Skript `dog_walk_animation.py` ist in übersichtliche Funktionen aufgeteilt:
 ### Lizenz und Danksagungen
 
 - Dieses Projekt steht unter keiner speziellen Lizenz, sofern nicht anders vermerkt. Du bist frei, es nach Belieben zu verwenden, anzupassen oder zu verbessern.  
-- Danke an alle Helfer und Blender-Enthusiasten, die das Skript getestet und Feedback gegeben haben.  
 
 > Viel Spaß beim Ausprobieren und Anpassen!  
 > Wenn du Fragen, Wünsche oder Feedback hast, erstelle gerne ein Issue oder einen Pull Request.
