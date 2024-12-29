@@ -13,7 +13,8 @@ Das Skript nutzt **Python 3.12**-Features und folgt dabei den Prinzipien des [Ze
 - [Verwendung](#verwendung)  
 - [Funktionsweise & Codeerklärung](#funktionsweise--codeerklärung)  
 - [Fehlersuche](#fehlersuche)  
-- [Weiterführende Ideen](#weiterführende-ideen)  
+- [Weiterführende Ideen](#weiterführende-ideen)
+- [Vorschau](#vorschau)  
 
 ---
 
@@ -139,4 +140,10 @@ Das Skript `dog_walk_animation.py` ist in übersichtliche Funktionen aufgeteilt:
 
 > Viel Spaß beim Ausprobieren und Anpassen!  
 > Wenn du Fragen, Wünsche oder Feedback hast, erstelle gerne ein Issue oder einen Pull Request.
+
+---
+## Vorschau
+![dog](https://github.com/user-attachments/assets/74f494ba-635b-4cb2-93ba-3ac4c9c5ce9f)
+
+
 
